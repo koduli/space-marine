@@ -1,4 +1,4 @@
-# Platformer Game
+# Space Marine
 
 A simple platformer game built with Pygame.
 
