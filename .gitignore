@@ -33,6 +33,13 @@ ENV/
 # Docker
 .docker/
 docker-compose.override.yml
+Dockerfile
+docker-compose*.yml
+.dockerignore
+
+# Git
+.git*
+.gitignore
 
 # Misc
 .DS_Store
