@@ -13,6 +13,6 @@ A simple platformer game built with Pygame.
 - Avoid fire traps
 - Reach the right side of the screen to win!
 
-### Running the game
+## Running the game
 
 Simply double-click the `run-game.bat` file.
